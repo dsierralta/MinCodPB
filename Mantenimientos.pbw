@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "Lib\\mante.pbt";
+@end;
+DefaultTarget "Lib\\mante.pbt";
+DefaultRemoteTarget "Lib\\mante.pbt";
